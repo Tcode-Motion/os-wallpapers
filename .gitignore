@@ -1,0 +1,17 @@
+# Windows system files
+[Tt]humbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Git LFS
+# *.jpg
+# *.png
+# *.jpeg
+
+# Ignore large wallpaper files
+wallpapers/
