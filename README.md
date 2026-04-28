@@ -1,2 +1,914 @@
-🌌 Awesome OS WallpapersA curated collection of high-quality wallpapers for your desktop, organized by categories. This repository contains over 600+ wallpapers totaling ~3GB of stunning visuals.📂 CategoriesCategoryDescription🎨 AbstractModern shapes, colors, and gradients.⛩️ AnimeHigh-quality anime scenery and characters.🏎️ CarsSupercars, classics, and automotive art.💻 CodingMinimalist and tech-focused backgrounds for devs.🏙️ CyberpunkNeon-lit cityscapes and futuristic vibes.🔐 HackingCybersecurity and hacker-themed wallpapers.🐉 Kali LinuxDedicated Kali Linux backgrounds.🍎 macOSOfficial and inspired Apple wallpapers.🦸 MarvelSuperhero art from the MCU and comics.🤖 RobotMecha, androids, and futuristic robotics.👽 Sci-FiFuturistic concepts and sci-fi art.🚀 SpaceGalactic vistas and interstellar space.🌸 VaporwaveRetro-aesthetic 80s/90s nostalgia.🪟 Windows 11Clean and modern Windows aesthetics.🖼️ Wallpaper Collection LinksExpand any category below to view and download the direct links to the wallpapers.1. Abstractwallhaven-135529.jpgwallhaven-135xq3.pngwallhaven-21z6k9.pngwallhaven-21zryg.jpgwallhaven-2eqp79.jpgwallhaven-2ywpgy.pngwallhaven-3qwz1y.pngwallhaven-3qzrv9.jpgwallhaven-5wwqg3.jpgwallhaven-5wxp38.jpgwallhaven-6okg1l.jpgwallhaven-732923.pngwallhaven-73ozdv.jpgwallhaven-85mpyo.pngwallhaven-8gezyk.jpgwallhaven-8o5ozo.jpgwallhaven-8o6x2y.pngwallhaven-8omxqy.jpgwallhaven-95qzjx.pngwallhaven-9djgpk.pngwallhaven-d83rvo.pngwallhaven-dgxp8j.jpgwallhaven-dpd36l.jpgwallhaven-g75wvd.jpgwallhaven-lyz6jp.jpgwallhaven-mdv78k.jpgwallhaven-mlqmqy.pngwallhaven-mlz771.pngwallhaven-nz96ov.pngwallhaven-ogy729.jpgwallhaven-p88p9e.jpgwallhaven-p9djkp.jpgwallhaven-poleej.pngwallhaven-q6oqwd.pngwallhaven-qd1k15.jpgwallhaven-qrjew7.jpgwallhaven-qrjqe5.jpgwallhaven-qrjqxq.jpgwallhaven-r27xjj.jpgwallhaven-r2ep9j.jpgwallhaven-r75rpj.pngwallhaven-w5126q.jpgwallhaven-wev56q.jpgwallhaven-wq9dop.jpgwallhaven-wy6rqx.pngwallhaven-wy7pz6.jpgwallhaven-xe782v.pngwallhaven-xezolo.pngwallhaven-z8wj6y.pngwallhaven-zmm6gw.jpg2. Anime171013-anime-world-light-people_in_nature-gesture.jpganime-girl-rock-by-river.jpgjapan-background-digital-art.jpglone-figure-walking-through-frozen-landscape.jpgwallhaven-21zor9.jpgwallhaven-3q312y.jpgwallhaven-3q3gj9.jpgwallhaven-3q3j6y.jpgwallhaven-3q3p7y.jpgwallhaven-3q3vw6.pngwallhaven-3q3yyd.jpgwallhaven-5yz359.jpgwallhaven-5yz6d3.jpgwallhaven-5yz8z8.jpgwallhaven-5yzpp1.jpgwallhaven-6lmzxw.jpgwallhaven-7j9eyv.jpgwallhaven-8ge1z1.jpgwallhaven-8ge2x1.pngwallhaven-8ge85o.jpgwallhaven-9oz7o8.pngwallhaven-9ozko8.pngwallhaven-9ozyek.jpgwallhaven-d83vjl.jpgwallhaven-e831kr.jpgwallhaven-e83mxl.pngwallhaven-gw5dq3.jpgwallhaven-gw5mol.jpgwallhaven-gw5ypd.jpgwallhaven-jewq75.pngwallhaven-k8z6rd.jpgwallhaven-k8zg56.pngwallhaven-lyz1dp.jpgwallhaven-lyzj5r.pngwallhaven-lyzly2.jpgwallhaven-lyzrqr.jpgwallhaven-mlzmjy.jpgwallhaven-mlzoy1.pngwallhaven-ogy6zm.jpgwallhaven-ogyeol.jpgwallhaven-ogyv8l.pngwallhaven-polerm.jpgwallhaven-qrjo2r.jpgwallhaven-qrjop5.pngwallhaven-rqg6m7.jpgwallhaven-vpz2g5.jpgwallhaven-vpz2kp.jpgwallhaven-vpzeg3.jpgwallhaven-vpzr3l.jpgwallhaven-w519xx.jpgwallhaven-yq52yk.jpgwallhaven-yq591g.jpgwallhaven-yq5dmg.jpgwallhaven-zpzv7j.jpg3. Carswallhaven-0jdljq.jpgwallhaven-1j3mew.jpgwallhaven-1qdj6g.jpgwallhaven-1qdkqv.jpgwallhaven-3qw91y.jpgwallhaven-3qwz1y.pngwallhaven-5d1m39.jpgwallhaven-5y5w98.jpgwallhaven-6l5kdw.jpgwallhaven-6l5q8q.jpgwallhaven-76kw89.jpgwallhaven-7j13pe.jpgwallhaven-7j16z3.jpgwallhaven-8gk5d1.jpgwallhaven-gw568d.jpgwallhaven-gw5er7.jpgwallhaven-gw5rwd.jpgwallhaven-gwq8pq.jpgwallhaven-je19zm.jpgwallhaven-jew2ey.jpgwallhaven-jew6lq.jpgwallhaven-jewrr5.jpgwallhaven-k8178q.jpgwallhaven-k8xkkd.jpgwallhaven-kwxmod.jpgwallhaven-lyzegr.jpgwallhaven-lyzly2.jpgwallhaven-ml13wy.jpgwallhaven-ml1d3y.jpgwallhaven-ml1p79.jpgwallhaven-ogyqp5.jpgwallhaven-polq8m.jpgwallhaven-pow2e9.jpgwallhaven-pow9jm.jpgwallhaven-qr32rq.jpgwallhaven-qr3zgq.pngwallhaven-vpog63.jpgwallhaven-vpzeg3.jpgwallhaven-vpzr6m.jpgwallhaven-w512yp.jpgwallhaven-x82m7d.jpgwallhaven-xe76j3.jpgwallhaven-xe78e3.jpgwallhaven-xez2q3.jpgwallhaven-xez933.jpgwallhaven-yq51qg.jpgwallhaven-yq52yk.jpgwallhaven-yqempl.jpgwallhaven-zpq8pj.jpgwallhaven-zpq8yv.jpg4. Codingwallhaven-0p52pj.pngwallhaven-1kyel9.jpgwallhaven-1p9133.pngwallhaven-1ppx2w.pngwallhaven-3k7qjv.jpgwallhaven-3qqqkv.jpgwallhaven-3z1ko6.pngwallhaven-3z1kx6.pngwallhaven-473lzo.jpgwallhaven-478w7e.jpgwallhaven-4dq75m.pngwallhaven-4gpmkd.pngwallhaven-4vmw9m.jpgwallhaven-4yjj74.jpgwallhaven-6odvgx.pngwallhaven-6qle5q.jpgwallhaven-73zz29.jpgwallhaven-76opry.pngwallhaven-7p7wev.pngwallhaven-7pkrev.pngwallhaven-83z85y.jpgwallhaven-956q2x.jpgwallhaven-dppj33.pngwallhaven-eyy2w8.jpgwallhaven-g7mrm3.pngwallhaven-j5elow.jpgwallhaven-jxq5p5.pngwallhaven-jxyopy.pngwallhaven-k9dwrd.pngwallhaven-k9k9l7.jpgwallhaven-k9vygm.pngwallhaven-kxeqm1.jpgwallhaven-l3q18y.pngwallhaven-lqkx62.jpgwallhaven-mplo19.jpgwallhaven-nmzgvm.jpgwallhaven-o32d7p.pngwallhaven-p2m2ke.jpgwallhaven-p8zxyp.pngwallhaven-qz2xmd.jpgwallhaven-rr29k1.pngwallhaven-vpppml.jpgwallhaven-vq7v78.pngwallhaven-vqwlwl.jpgwallhaven-weg7px.jpgwallhaven-x6km5v.pngwallhaven-x6vz1v.pngwallhaven-x892zz.pngwallhaven-zylyqo.jpgwallhaven-zylzmg.png5. Cyberpunkwallhaven-282xwg.jpgwallhaven-2yggp6.jpgwallhaven-39ry9y.pngwallhaven-3k2769.pngwallhaven-3z7xo3.jpgwallhaven-5dve79.jpgwallhaven-5gzwr5.jpgwallhaven-6kk7dx.jpgwallhaven-6o582x.jpgwallhaven-728lye.pngwallhaven-8577lo.jpgwallhaven-96j3kx.pngwallhaven-96krl8.jpgwallhaven-9dxx38.jpgwallhaven-exzrmw.pngwallhaven-eym5lk.pngwallhaven-g7ydql.jpgwallhaven-gw53o7.jpgwallhaven-gw5lwl.pngwallhaven-j355pq.pngwallhaven-j366pq.pngwallhaven-jewoep.pngwallhaven-k7l23d.pngwallhaven-k81776.jpgwallhaven-kx33m1.jpgwallhaven-kx996m.jpgwallhaven-l39zl2.jpgwallhaven-lyz7yp.pngwallhaven-ogyok5.jpgwallhaven-oxv7rp.jpgwallhaven-p9wgjj.jpgwallhaven-polz3p.jpgwallhaven-pow9jm.jpgwallhaven-q2dp97.jpgwallhaven-q2gpq7.pngwallhaven-qrjew7.jpgwallhaven-v9dmv3.pngwallhaven-v9odrp.pngwallhaven-w51r56.jpgwallhaven-wq8ddr.jpgwallhaven-wykj8r.jpgwallhaven-x8xre3.pngwallhaven-xe76j3.jpgwallhaven-xezolo.pngwallhaven-y8g5kg.pngwallhaven-y8zd5x.pngwallhaven-yq5rql.pngwallhaven-yx77yl.jpgwallhaven-zpqyoj.jpgwallhaven-zygg1y.jpg6. Hackingwallhaven-28l7zx.pngwallhaven-2e3ezy.jpgwallhaven-2eqmr6.jpgwallhaven-3926e6.pngwallhaven-39p123.jpgwallhaven-3z7dd3.pngwallhaven-4y1omx.jpgwallhaven-5g2g25.pngwallhaven-5w3m83.jpgwallhaven-83z1qk.jpgwallhaven-8x1el1.jpgwallhaven-963vd1.jpgwallhaven-d6886j.pngwallhaven-e7gwwk.pngwallhaven-eo8rvw.jpgwallhaven-ex98mo.jpgwallhaven-j3lgwm.pngwallhaven-j5elow.jpgwallhaven-jxlxey.jpgwallhaven-l8x6xr.pngwallhaven-md953k.jpgwallhaven-od2d2p.jpgwallhaven-p2o5mj.jpgwallhaven-qd3e8q.jpgwallhaven-r7j35w.jpgwallhaven-r7x2rj.jpgwallhaven-vgorol.pngwallhaven-we21gp.pngwallhaven-wymy1q.jpgwallhaven-x1ewkd.jpgwallhaven-xlpx3z.jpgwallhaven-xlq5k3.jpgwallhaven-yx6d6k.pngwallhaven-zxq6lw.jpg7. Kali Linuxwallhaven-2y556g.jpgwallhaven-2ypwpm.pngwallhaven-39p123.jpgwallhaven-3lee79.jpgwallhaven-43yde9.jpgwallhaven-4l8z2y.jpgwallhaven-4yr567.jpgwallhaven-5y7381.jpgwallhaven-6ow8yq.pngwallhaven-72rzl3.pngwallhaven-73vyme.jpgwallhaven-85od8j.pngwallhaven-d6qjpm.pngwallhaven-d6qqdl.pngwallhaven-dpmpmm.pngwallhaven-g72ym3.pngwallhaven-j3vgym.pngwallhaven-l326jl.pngwallhaven-m38xq9.pngwallhaven-m927y9.jpgwallhaven-n6zl6l.jpgwallhaven-o32pj9.pngwallhaven-p9kjmj.pngwallhaven-pkogdp.jpgwallhaven-pkyeg9.pngwallhaven-r7j35w.jpgwallhaven-vqrr2m.pngwallhaven-wepvp7.jpgwallhaven-werrxp.jpgwallhaven-x8382z.pngwallhaven-zy8ovv.png8. macOSwallhaven-0pwmm4.pngwallhaven-1kqvwg.jpgwallhaven-2ko8j6.jpgwallhaven-3z91ey.jpgwallhaven-4dy8g3.jpgwallhaven-5dd6y8.pngwallhaven-5wqpd1.pngwallhaven-6ol3gq.jpgwallhaven-721vx3.jpgwallhaven-726pme.jpgwallhaven-72jvo3.jpgwallhaven-7j6qxy.pngwallhaven-7pd9l3.jpgwallhaven-85poe2.jpgwallhaven-8ogv6k.jpgwallhaven-8oy5x2.pngwallhaven-9dxr5d.pngwallhaven-d6je3g.jpgwallhaven-d8gwvj.pngwallhaven-dpvp1j.jpgwallhaven-e78gp8.jpgwallhaven-e7oxrr.jpgwallhaven-exmljo.jpgwallhaven-eym57w.jpgwallhaven-eyvy5w.pngwallhaven-gpd26e.jpgwallhaven-j3eprm.jpgwallhaven-jxgxpw.jpgwallhaven-l3yxrl.jpgwallhaven-l8158l.jpgwallhaven-l868xy.jpgwallhaven-m9p3ry.jpgwallhaven-m9y7w9.jpgmp2l68.jpgwallhaven-o3gqv9.jpgwallhaven-o5p5ql.jpgwallhaven-p9dzq3.jpgwallhaven-pko1v9.jpgwallhaven-pkogdp.jpgwallhaven-q2dz5q.jpgwallhaven-q2rkvl.jpgwallhaven-qz236r.pngwallhaven-rq2je1.pngwallhaven-rr9og7.pngwallhaven-vqxvd3.jpgwallhaven-x6w8zv.jpgwallhaven-x8eo3z.jpgwallhaven-x8m61v.pngwallhaven-z8p73o.jpgwallhaven-z8xy2j.jpg9. Marvelwallhaven-13m7xg.jpgwallhaven-13q39g.pngwallhaven-21z7w6.jpgwallhaven-21zp56.jpgwallhaven-28vre6.jpgwallhaven-39q9xv.pngwallhaven-3q3xey.jpgwallhaven-5w81k9.jpgwallhaven-5weke7.jpgwallhaven-5yz188.jpgwallhaven-6q92kx.jpgwallhaven-7j6w7e.pngwallhaven-83g32k.pngwallhaven-83or11.jpgwallhaven-8ge1q1.pngwallhaven-968krw.jpgwallhaven-96r1l1.jpgwallhaven-d831mo.jpgwallhaven-d839qo.jpgwallhaven-e7xjzr.jpgwallhaven-exgw5w.jpgwallhaven-g7gexd.jpgwallhaven-g87myd.jpgwallhaven-gj398e.jpgwallhaven-j3ee6m.jpgwallhaven-j58wdw.jpgwallhaven-j86k5p.jpgwallhaven-k8zm61.jpgwallhaven-kw8wmd.pngwallhaven-lywm22.pngwallhaven-mdr88m.pngwallhaven-nmrv14.jpgwallhaven-ogyjvl.jpgwallhaven-p2rj2e.jpgwallhaven-p8o8q9.pngwallhaven-pkp6mm.jpgwallhaven-q2l2zq.jpgwallhaven-q6v5gq.jpgwallhaven-qdwg2r.jpgwallhaven-r2q2kw.pngwallhaven-wy5ypr.pngwallhaven-xlkpe3.jpgwallhaven-yj1odd.jpgwallhaven-yjzgml.jpgwallhaven-ymg6px.jpgwallhaven-ymqmzd.pngwallhaven-yxqk7k.jpgwallhaven-z8xo8y.jpgwallhaven-zpp1qw.pngwallhaven-zy2pwo.jpg10. Robotwallhaven-0wp2y7.pngwallhaven-0wze9q.pngwallhaven-13pwrg.pngwallhaven-1jxllv.jpgwallhaven-28v399.jpgwallhaven-28vm8x.jpgwallhaven-2kzwp9.jpgwallhaven-2y1op9.jpgwallhaven-3zxq2d.jpgwallhaven-458x67.jpgwallhaven-4lrd1l.jpgwallhaven-4v3ze3.jpgwallhaven-57j727.jpgwallhaven-5g8po3.jpgwallhaven-6og35l.pngwallhaven-83qm82.jpgwallhaven-8ovy5j.jpgwallhaven-9d18lw.jpgwallhaven-d5ggkl.pngwallhaven-d5rlqg.pngwallhaven-dpj7j3.jpgwallhaven-eod9zk.jpgwallhaven-g76vge.jpgwallhaven-g77m8e.jpgwallhaven-gjr6ke.jpgwallhaven-j8w6vp.jpgwallhaven-k7vg7d.jpgwallhaven-k8z5z7.jpgwallhaven-lm6jzr.jpgwallhaven-m959xm.jpgwallhaven-mddkx1.jpgwallhaven-ml1p89.jpgwallhaven-neg5mo.jpgwallhaven-ododm7.jpgwallhaven-q2pee7.pngwallhaven-r2v78q.pngwallhaven-rqg9gq.pngwallhaven-v9l81p.jpgwallhaven-v9qyx3.jpgwallhaven-vm85dl.jpgwallhaven-w56qwq.pngwallhaven-wqgxkx.jpgwallhaven-x1k2ko.jpgwallhaven-x8om6d.jpgwallhaven-xee99d.jpgwallhaven-xl9v7l.jpgwallhaven-y83l9x.jpgwallhaven-yq5d6d.pngwallhaven-z8ey5o.jpgwallhaven-zxo3wg.jpg11. Sci-Fiwallhaven-017lq3.jpgwallhaven-0j62op.jpgwallhaven-0p7jge.jpgwallhaven-0wgddx.jpgwallhaven-1jp1xv.jpgwallhaven-1ky9z9.jpgwallhaven-1pxrxw.jpgwallhaven-42pze6.jpgwallhaven-42zo1m.jpgwallhaven-49qkg8.jpgwallhaven-4omd5p.jpgwallhaven-4owzkm.pngwallhaven-4yroex.jpgwallhaven-5w3e15.jpgwallhaven-8odrkj.jpgwallhaven-9m6lpk.jpgwallhaven-d58pgj.jpgwallhaven-e83rvw.jpgwallhaven-eo6yol.jpgwallhaven-eyq9l8.jpgwallhaven-g79lv7.pngwallhaven-gjq3zd.jpgwallhaven-j37jpp.jpgwallhaven-jew7yp.jpgwallhaven-k7zv37.jpgwallhaven-k8zjkd.jpgwallhaven-k91l3d.jpgwallhaven-kxk2k6.jpgwallhaven-lm35gp.jpgwallhaven-md8prm.jpgwallhaven-mdogk8.jpgwallhaven-mdoye8.pngwallhaven-mdyg58.jpgwallhaven-n6em3q.jpgwallhaven-n6p6pl.jpgwallhaven-ox72p9.jpgwallhaven-pol5mj.jpgwallhaven-pol5qp.jpgwallhaven-qdqkxr.jpgwallhaven-r28vvj.pngwallhaven-rd58j1.jpgwallhaven-rdr9xw.jpgwallhaven-vg2563.jpgwallhaven-vmggym.pngwallhaven-wy3m9r.jpgwallhaven-ymdwpd.jpgwallhaven-yx879g.pngwallhaven-z8me6o.jpgwallhaven-zm8zxo.jpgwallhaven-zx6zyg.jpg12. Spacewallhaven-0q3okd.jpgwallhaven-1kl8zv.pngwallhaven-1p6gwg.pngwallhaven-1pewpw.jpgwallhaven-1q121g.jpgwallhaven-43v8kd.jpgwallhaven-43yxy9.jpgwallhaven-48596y.jpgwallhaven-492v2k.jpgwallhaven-4ljkgr.jpgwallhaven-4lrkrp.jpgwallhaven-4yyk2d.jpgwallhaven-5y5dg7.jpgwallhaven-5yzjr9.jpgwallhaven-72mr7y.jpgwallhaven-76wvyo.jpgwallhaven-8x6opk.jpgwallhaven-9mklzk.jpgwallhaven-d832zl.pngwallhaven-dpz21m.jpgwallhaven-ey1x18.jpgwallhaven-eyp3ro.pngwallhaven-g851kd.pngwallhaven-g8plx7.jpgwallhaven-gw5xyq.pngwallhaven-j31v2p.pngwallhaven-j3dp9q.jpgwallhaven-jew7yp.jpgwallhaven-jewmxy.jpgwallhaven-jewr7w.jpgwallhaven-jx6ryq.jpgwallhaven-jx7mem.jpgwallhaven-k8zjkd.jpgwallhaven-k99621.pngwallhaven-lyz582.jpgwallhaven-lyzdl2.jpgwallhaven-m9m8my.jpgwallhaven-neveg8.jpgwallhaven-oxexrl.jpgwallhaven-pol5qp.jpgwallhaven-rr63km.pngwallhaven-vpz823.jpgwallhaven-vpzwop.jpgwallhaven-wqxjvp.pngwallhaven-xezmgz.pngwallhaven-xezomd.jpgwallhaven-yq5kvd.jpgwallhaven-yq5yxg.jpgwallhaven-zpzlwo.jpgwallhaven-zxvo6y.jpg13. Vaporwavewallhaven-1kjwew.jpgwallhaven-1pjpe9.jpgwallhaven-1q83qg.jpgwallhaven-1qkgww.jpgwallhaven-39kp1v.jpgwallhaven-5wdx99.jpgwallhaven-6k9xdw.jpgwallhaven-6ldyzl.pngwallhaven-6q9jpw.jpgwallhaven-6qzjv7.jpgwallhaven-8g32lk.jpgwallhaven-95961w.pngwallhaven-95w371.jpgwallhaven-96rgyx.jpgwallhaven-d5p3qg.jpgwallhaven-d6163o.jpgwallhaven-dgee5m.jpgwallhaven-dgxp13.jpgwallhaven-dp29ko.jpgwallhaven-dpkpgj.jpgwallhaven-dpqklj.jpgwallhaven-g85drl.pngwallhaven-g86vve.pngwallhaven-gjvwe7.jpgwallhaven-gjwmp3.jpgwallhaven-k73pg7.pngwallhaven-kw16d6.jpgwallhaven-kw2xqd.pngwallhaven-kw96x7.jpgwallhaven-kwqd27.jpgwallhaven-kxgm5q.jpgwallhaven-l3gqjp.jpgwallhaven-ly3gmr.pngwallhaven-lyqk3p.jpgwallhaven-mdeo9y.jpgwallhaven-mdg7w9.pngwallhaven-p8g17j.pngwallhaven-p8r983.jpgwallhaven-q2dlll.jpgwallhaven-q6qold.pngwallhaven-qrz9o7.pngwallhaven-r22wdq.jpgwallhaven-rd78wq.jpgwallhaven-vgmrq5.jpgwallhaven-vm3ymm.pngwallhaven-vmkp1m.jpgwallhaven-weq1ox.jpgwallhaven-wyqg56.jpgwallhaven-xl5k8v.pngwallhaven-z8x55o.jpg14. Windows 11wallhaven-1kr3g3.pngwallhaven-1q1g73.pngwallhaven-21k2pg.jpgwallhaven-2y3kkg.pngwallhaven-3lp2k9.pngwallhaven-3lpe76.pngwallhaven-3lxdy3.jpgwallhaven-72xx8y.jpgwallhaven-7prgd9.pngwallhaven-85d9q2.pngwallhaven-8ge9l2.pngwallhaven-8go86j.pngwallhaven-8gx8pk.jpgwallhaven-9dg8q8.pngwallhaven-9djgpk.pngwallhaven-9odmxk.pngwallhaven-d6rx7g.jpgwallhaven-dp6g8l.pngwallhaven-g7ow5e.jpgwallhaven-g7qg7l.pngwallhaven-gw7jdq.pngwallhaven-gwqpj3.pngwallhaven-j3yzdm.jpgwallhaven-je1x8m.pngwallhaven-je3g95.pngwallhaven-jxv965.pngwallhaven-k7g3j6.jpgwallhaven-kxm6m6.pngwallhaven-l3x572.pngwallhaven-l8qw7y.jpgwallhaven-l8v98r.pngwallhaven-lyw8ql.pngwallhaven-mll6zk.pngwallhaven-o5dwzl.jpgwallhaven-og5xw7.pngwallhaven-oggg39.pngwallhaven-qrjmwd.pngwallhaven-qz76y7.pngwallhaven-rdvxxj.pngwallhaven-rqrd3w.pngwallhaven-vqkr25.pngwallhaven-w5qlrp.pngwallhaven-x6rkl3.jpgwallhaven-x8mge3.pngwallhaven-y8ewml.pngwallhaven-yqexm7.pngwallhaven-z8g68w.pngwallhaven-z8v6rj.jpgwallhaven-zppjqg.pngwallhaven-zpzd1g.png🚀 Getting StartedClone the repository to download the entire collection:git clone [https://github.com/tanmoy44717/os-wallpapers.git](https://github.com/tanmoy44717/os-wallpapers.git)
-UsageSimply browse the wallpapers/ directory and set your favorite image as your desktop background! Alternatively, browse the links above to directly access or download the images.Maintained by Tcode-Motion
+```markdown
+# 🌌 Awesome OS Wallpapers
+
+A curated collection of over 600+ high-quality wallpapers (totaling ~3GB) for developers, enthusiasts, and creators. All images are served via a fast CDN for immediate use in your projects.
+
+---
+
+## 🛠️ How to Use (Integration Guide)
+
+You can use these direct CDN links in various environments. Just copy the link of your favorite wallpaper and paste it into your code.
+
+### 1. In CSS (Backgrounds)
+Perfect for setting a high-quality background for your website:
+```css
+.hero-section {
+  background-image: url('PASTE_LINK_HERE');
+  background-size: cover;
+  background-position: center;
+}
+```
+
+### 2. In HTML (Images)
+Embed directly into your web pages:
+```html
+<img src="PASTE_LINK_HERE" alt="Wallpaper Name" width="100%">
+```
+
+### 3. In React/Next.js
+```jsx
+const Wallpaper = () => (
+  <div style={{ backgroundImage: `url('PASTE_LINK_HERE')` }}>
+     <h1>Stark OS Vibes</h1>
+  </div>
+);
+```
+
+### 4. Terminal Download (wget/curl)
+Download a specific file directly to your system:
+```bash
+wget PASTE_LINK_HERE
+```
+
+---
+
+## 📂 Live Preview Gallery & Copyable Links
+
+*Click on a category to expand the visual gallery. Every image is clickable for a full preview. Use the code blocks below each gallery to copy all links at once.*
+
+### 🎨 1. Abstract
+<details>
+<summary><b>Click to expand Abstract Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135529.jpg" width="150"> | `wallhaven-135529.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135xq3.png" width="150"> | `wallhaven-135xq3.png` |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21z6k9.png" width="150"> | `wallhaven-21z6k9.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21zryg.jpg" width="150"> | `wallhaven-21zryg.jpg` |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2eqp79.jpg" width="150"> | `wallhaven-2eqp79.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2ywpgy.png" width="150"> | `wallhaven-2ywpgy.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135529.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135529.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135xq3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135xq3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21z6k9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21z6k9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21zryg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21zryg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2eqp79.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2eqp79.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2ywpgy.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-2ywpgy.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-3qwz1y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-3qwz1y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-3qzrv9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-3qzrv9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-5wwqg3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-5wwqg3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-5wxp38.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-5wxp38.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-6okg1l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-6okg1l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-732923.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-732923.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-73ozdv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-73ozdv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-85mpyo.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-85mpyo.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8gezyk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8gezyk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8o5ozo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8o5ozo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8o6x2y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8o6x2y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8omxqy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-8omxqy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-95qzjx.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-95qzjx.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-9djgpk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-9djgpk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-d83rvo.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-d83rvo.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-dgxp8j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-dgxp8j.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-dpd36l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-dpd36l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-g75wvd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-g75wvd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-lyz6jp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-lyz6jp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mdv78k.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mdv78k.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mlqmqy.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mlqmqy.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mlz771.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-mlz771.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-nz96ov.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-nz96ov.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-ogy729.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-ogy729.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-p88p9e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-p88p9e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-p9djkp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-p9djkp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-poleej.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-poleej.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-q6oqwd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-q6oqwd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qd1k15.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qd1k15.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjew7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjew7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjqe5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjqe5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjqxq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-qrjqxq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r27xjj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r27xjj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r2ep9j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r2ep9j.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r75rpj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-r75rpj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-w5126q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-w5126q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wev56q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wev56q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wq9dop.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wq9dop.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wy6rqx.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wy6rqx.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wy7pz6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-wy7pz6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-xe782v.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-xe782v.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-xezolo.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-xezolo.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-z8wj6y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-z8wj6y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-zmm6gw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-zmm6gw.jpg)
+```
+</details>
+
+### ⛩️ 2. Anime
+<details>
+<summary><b>Click to expand Anime Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/171013-anime-world-light-people_in_nature-gesture-7680x4320.jpg" width="150"> | `171013-anime.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/anime-girl-rock-by-river-autumn-sunset-scenery.jpg" width="150"> | `anime-girl.jpg` |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/japan-background-digital-art.jpg" width="150"> | `japan-art.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/lone-figure-walking-through-frozen-landscape.jpg" width="150"> | `lone-figure.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/171013-anime-world-light-people_in_nature-gesture-7680x4320.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/171013-anime-world-light-people_in_nature-gesture-7680x4320.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/anime-girl-rock-by-river-autumn-sunset-scenery.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/anime-girl-rock-by-river-autumn-sunset-scenery.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/japan-background-digital-art.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/japan-background-digital-art.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/lone-figure-walking-through-frozen-landscape.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/lone-figure-walking-through-frozen-landscape.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-21zor9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-21zor9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q312y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q312y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3gj9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3gj9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3j6y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3j6y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3p7y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3p7y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3vw6.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3vw6.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3yyd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-3q3yyd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz359.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz359.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz6d3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz6d3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz8z8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yz8z8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yzpp1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-5yzpp1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-6lmzxw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-6lmzxw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-7j9eyv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-7j9eyv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge1z1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge1z1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge2x1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge2x1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge85o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-8ge85o.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9oz7o8.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9oz7o8.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9ozko8.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9ozko8.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9ozyek.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-9ozyek.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-d83vjl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-d83vjl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-e831kr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-e831kr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-e83mxl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-e83mxl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5dq3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5dq3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5mol.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5mol.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5ypd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-gw5ypd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-jewq75.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-jewq75.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-k8z6rd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-k8z6rd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-k8zg56.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-k8zg56.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyz1dp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyz1dp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzj5r.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzj5r.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzly2.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzly2.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzrqr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-lyzrqr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-mlzmjy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-mlzmjy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-mlzoy1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-mlzoy1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogy6zm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogy6zm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogyeol.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogyeol.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogyv8l.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-ogyv8l.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-polerm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-polerm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-qrjo2r.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-qrjo2r.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-qrjop5.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-qrjop5.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-rqg6m7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-rqg6m7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpz2g5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpz2g5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpz2kp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpz2kp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpzeg3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpzeg3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpzr3l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-vpzr3l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-w519xx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-w519xx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq52yk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq52yk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq591g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq591g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq5dmg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-yq5dmg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-zpzv7j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-zpzv7j.jpg)
+```
+</details>
+
+### 🏎️ 3. Cars
+<details>
+<summary><b>Click to expand Cars Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-0jdljq.jpg" width="150"> | `wallhaven-0jdljq.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1j3mew.jpg" width="150"> | `wallhaven-1j3mew.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-0jdljq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-0jdljq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1j3mew.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1j3mew.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1qdj6g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1qdj6g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1qdkqv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1qdkqv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-3qw91y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-3qw91y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-3qwz1y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-3qwz1y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-5d1m39.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-5d1m39.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-5y5w98.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-5y5w98.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-6l5kdw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-6l5kdw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-6l5q8q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-6l5q8q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-76kw89.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-76kw89.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-7j13pe.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-7j13pe.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-7j16z3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-7j16z3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-8gk5d1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-8gk5d1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw568d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw568d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw5er7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw5er7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw5rwd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gw5rwd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gwq8pq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-gwq8pq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-je19zm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-je19zm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jew2ey.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jew2ey.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jew6lq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jew6lq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jewrr5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-jewrr5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-k8178q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-k8178q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-k8xkkd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-k8xkkd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-kwxmod.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-kwxmod.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-lyzegr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-lyzegr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-lyzly2.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-lyzly2.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml13wy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml13wy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml1d3y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml1d3y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml1p79.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ml1p79.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ogyqp5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-ogyqp5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-polq8m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-polq8m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-pow2e9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-pow2e9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-pow9jm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-pow9jm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-qr32rq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-qr32rq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-qr3zgq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-qr3zgq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpog63.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpog63.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpzeg3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpzeg3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpzr6m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-vpzr6m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-w512yp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-w512yp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-x82m7d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-x82m7d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xe76j3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xe76j3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xe78e3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xe78e3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez2q3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez2q3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez933.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez933.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq51qg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq51qg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yqempl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yqempl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8pj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8pj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8yv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8yv.jpg)
+```
+</details>
+
+### 💻 4. Coding
+<details>
+<summary><b>Click to expand Coding Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-0p52pj.png" width="150"> | `wallhaven-0p52pj.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1kyel9.jpg" width="150"> | `wallhaven-1kyel9.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-0p52pj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-0p52pj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1kyel9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1kyel9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1p9133.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1p9133.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1ppx2w.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1ppx2w.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3k7qjv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3k7qjv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3qqqkv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3qqqkv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3z1ko6.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3z1ko6.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3z1kx6.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-3z1kx6.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-473lzo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-473lzo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-478w7e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-478w7e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4dq75m.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4dq75m.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4gpmkd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4gpmkd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4vmw9m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4vmw9m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4yjj74.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-4yjj74.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-6odvgx.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-6odvgx.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-6qle5q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-6qle5q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-73zz29.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-73zz29.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-76opry.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-76opry.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-7p7wev.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-7p7wev.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-7pkrev.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-7pkrev.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-83z85y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-83z85y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-956q2x.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-956q2x.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-dppj33.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-dppj33.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-eyy2w8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-eyy2w8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-g7mrm3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-g7mrm3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-j5elow.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-j5elow.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-jxq5p5.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-jxq5p5.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-jxyopy.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-jxyopy.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9dwrd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9dwrd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9k9l7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9k9l7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9vygm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-k9vygm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-kxeqm1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-kxeqm1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-l3q18y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-l3q18y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-lqkx62.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-lqkx62.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-mplo19.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-mplo19.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-nmzgvm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-nmzgvm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-o32d7p.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-o32d7p.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-p2m2ke.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-p2m2ke.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-p8zxyp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-p8zxyp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-qz2xmd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-qz2xmd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-rr29k1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-rr29k1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vpppml.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vpppml.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vq7v78.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vq7v78.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vqwlwl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-vqwlwl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-weg7px.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-weg7px.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x6km5v.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x6km5v.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x6vz1v.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x6vz1v.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x892zz.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-x892zz.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylyqo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylyqo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylzmg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylzmg.png)
+```
+</details>
+
+### 🏙️ 5. Cyberpunk
+<details>
+<summary><b>Click to expand Cyberpunk Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-282xwg.jpg" width="150"> | `wallhaven-282xwg.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-2yggp6.jpg" width="150"> | `wallhaven-2yggp6.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-282xwg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-282xwg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-2yggp6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-2yggp6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-39ry9y.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-39ry9y.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-3k2769.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-3k2769.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-3z7xo3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-3z7xo3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-5dve79.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-5dve79.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-5gzwr5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-5gzwr5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-6kk7dx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-6kk7dx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-6o582x.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-6o582x.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-728lye.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-728lye.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-8577lo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-8577lo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-96j3kx.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-96j3kx.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-96krl8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-96krl8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-9dxx38.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-9dxx38.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-exzrmw.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-exzrmw.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-eym5lk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-eym5lk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-g7ydql.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-g7ydql.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-gw53o7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-gw53o7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-gw5lwl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-gw5lwl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-j355pq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-j355pq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-j366pq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-j366pq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-jewoep.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-jewoep.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-k7l23d.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-k7l23d.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-k81776.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-k81776.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-kx33m1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-kx33m1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-kx996m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-kx996m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-l39zl2.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-l39zl2.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-lyz7yp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-lyz7yp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-ogyok5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-ogyok5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-oxv7rp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-oxv7rp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-p9wgjj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-p9wgjj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-polz3p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-polz3p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-pow9jm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-pow9jm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-q2dp97.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-q2dp97.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-q2gpq7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-q2gpq7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-qrjew7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-qrjew7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-v9dmv3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-v9dmv3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-v9odrp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-v9odrp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-w51r56.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-w51r56.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-wq8ddr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-wq8ddr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-wykj8r.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-wykj8r.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-x8xre3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-x8xre3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-xe76j3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-xe76j3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-xezolo.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-xezolo.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-y8g5kg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-y8g5kg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-y8zd5x.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-y8zd5x.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-yq5rql.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-yq5rql.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-yx77yl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-yx77yl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zpqyoj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zpqyoj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zygg1y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zygg1y.jpg)
+```
+</details>
+
+### 🔐 6. Hacking
+<details>
+<summary><b>Click to expand Hacking Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-28l7zx.png" width="150"> | `wallhaven-28l7zx.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2e3ezy.jpg" width="150"> | `wallhaven-2e3ezy.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-28l7zx.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-28l7zx.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2e3ezy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2e3ezy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2eqmr6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2eqmr6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-3926e6.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-3926e6.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-39p123.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-39p123.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-3z7dd3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-3z7dd3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-4y1omx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-4y1omx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-5g2g25.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-5g2g25.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-5w3m83.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-5w3m83.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-83z1qk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-83z1qk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-8x1el1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-8x1el1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-963vd1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-963vd1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-d6886j.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-d6886j.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-e7gwwk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-e7gwwk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-eo8rvw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-eo8rvw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-ex98mo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-ex98mo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-j3lgwm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-j3lgwm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-j5elow.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-j5elow.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-jxlxey.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-jxlxey.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-l8x6xr.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-l8x6xr.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-md953k.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-md953k.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-od2d2p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-od2d2p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-p2o5mj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-p2o5mj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-qd3e8q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-qd3e8q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-r7j35w.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-r7j35w.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-r7x2rj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-r7x2rj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-vgorol.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-vgorol.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-we21gp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-we21gp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-wymy1q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-wymy1q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-x1ewkd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-x1ewkd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-xlpx3z.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-xlpx3z.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-xlq5k3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-xlq5k3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-yx6d6k.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-yx6d6k.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-zxq6lw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-zxq6lw.jpg)
+```
+</details>
+
+### 🐉 7. Kali Linux
+<details>
+<summary><b>Click to expand Kali Linux Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2y556g.jpg" width="150"> | `wallhaven-2y556g.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2ypwpm.png" width="150"> | `wallhaven-2ypwpm.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2y556g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2y556g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2ypwpm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2ypwpm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-39p123.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-39p123.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-3lee79.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-3lee79.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-43yde9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-43yde9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-4l8z2y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-4l8z2y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-4yr567.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-4yr567.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-5y7381.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-5y7381.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-6ow8yq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-6ow8yq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-72rzl3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-72rzl3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-73vyme.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-73vyme.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-85od8j.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-85od8j.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-d6qjpm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-d6qjpm.png)
+[https://cdn.jsdelivr.gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-d6qqdl.png](https://cdn.jsdelivr.gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-d6qqdl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-dpmpmm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-dpmpmm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-g72ym3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-g72ym3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-j3vgym.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-j3vgym.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-l326jl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-l326jl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-m38xq9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-m38xq9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-m927y9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-m927y9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-n6zl6l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-n6zl6l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-o32pj9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-o32pj9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-p9kjmj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-p9kjmj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-pkogdp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-pkogdp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-pkyeg9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-pkyeg9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-r7j35w.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-r7j35w.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-vqrr2m.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-vqrr2m.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-wepvp7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-wepvp7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-werrxp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-werrxp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-x8382z.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-x8382z.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-zy8ovv.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-zy8ovv.png)
+```
+</details>
+
+### 🍎 8. macOS
+<details>
+<summary><b>Click to expand macOS Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-0pwmm4.png" width="150"> | `wallhaven-0pwmm4.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-1kqvwg.jpg" width="150"> | `wallhaven-1kqvwg.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-0pwmm4.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-0pwmm4.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-1kqvwg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-1kqvwg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-2ko8j6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-2ko8j6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-3z91ey.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-3z91ey.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-4dy8g3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-4dy8g3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-5dd6y8.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-5dd6y8.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-5wqpd1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-5wqpd1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-6ol3gq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-6ol3gq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-721vx3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-721vx3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-726pme.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-726pme.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-72jvo3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-72jvo3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-7j6qxy.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-7j6qxy.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-7pd9l3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-7pd9l3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-85poe2.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-85poe2.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-8ogv6k.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-8ogv6k.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-8oy5x2.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-8oy5x2.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-9dxr5d.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-9dxr5d.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-d6je3g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-d6je3g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-d8gwvj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-d8gwvj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-dpvp1j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-dpvp1j.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-e78gp8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-e78gp8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-e7oxrr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-e7oxrr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-exmljo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-exmljo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-eym57w.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-eym57w.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-eyvy5w.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-eyvy5w.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-gpd26e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-gpd26e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-j3eprm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-j3eprm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-jxgxpw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-jxgxpw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l3yxrl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l3yxrl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l8158l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l8158l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l868xy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-l868xy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-m9p3ry.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-m9p3ry.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-m9y7w9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-m9y7w9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/mp2l68.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/mp2l68.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-o3gqv9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-o3gqv9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-o5p5ql.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-o5p5ql.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-p9dzq3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-p9dzq3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-pko1v9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-pko1v9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-pkogdp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-pkogdp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-q2dz5q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-q2dz5q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-q2rkvl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-q2rkvl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-qz236r.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-qz236r.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-rq2je1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-rq2je1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-rr9og7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-rr9og7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-vqxvd3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-vqxvd3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x6w8zv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x6w8zv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x8eo3z.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x8eo3z.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x8m61v.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-x8m61v.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8p73o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8p73o.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8xy2j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8xy2j.jpg)
+```
+</details>
+
+### 🦸 9. Marvel
+<details>
+<summary><b>Click to expand Marvel Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13m7xg.jpg" width="150"> | `wallhaven-13m7xg.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13q39g.png" width="150"> | `wallhaven-13q39g.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13m7xg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13m7xg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13q39g.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13q39g.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-21z7w6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-21z7w6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-21zp56.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-21zp56.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-28vre6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-28vre6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-39q9xv.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-39q9xv.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-3q3xey.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-3q3xey.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5w81k9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5w81k9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5weke7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5weke7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5yz188.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-5yz188.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-6q92kx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-6q92kx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-7j6w7e.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-7j6w7e.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-83g32k.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-83g32k.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-83or11.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-83or11.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-8ge1q1.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-8ge1q1.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-968krw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-968krw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-96r1l1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-96r1l1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-d831mo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-d831mo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-d839qo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-d839qo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-e7xjzr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-e7xjzr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-exgw5w.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-exgw5w.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-g7gexd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-g7gexd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-g87myd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-g87myd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-gj398e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-gj398e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j3ee6m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j3ee6m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j58wdw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j58wdw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j86k5p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-j86k5p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-k8zm61.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-k8zm61.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-kw8wmd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-kw8wmd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-lywm22.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-lywm22.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-mdr88m.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-mdr88m.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-nmrv14.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-nmrv14.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ogyjvl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ogyjvl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-p2rj2e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-p2rj2e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-p8o8q9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-p8o8q9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-pkp6mm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-pkp6mm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-q2l2zq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-q2l2zq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-q6v5gq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-q6v5gq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-qdwg2r.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-qdwg2r.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-r2q2kw.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-r2q2kw.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-wy5ypr.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-wy5ypr.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-xlkpe3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-xlkpe3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yj1odd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yj1odd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yjzgml.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yjzgml.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ymg6px.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ymg6px.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ymqmzd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-ymqmzd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yxqk7k.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-yxqk7k.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-z8xo8y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-z8xo8y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zpp1qw.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zpp1qw.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zy2pwo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zy2pwo.jpg)
+```
+</details>
+
+### 🤖 10. Robot
+<details>
+<summary><b>Click to expand Robot Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wp2y7.png" width="150"> | `wallhaven-0wp2y7.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wze9q.png" width="150"> | `wallhaven-0wze9q.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wp2y7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wp2y7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wze9q.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wze9q.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-13pwrg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-13pwrg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-1jxllv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-1jxllv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-28v399.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-28v399.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-28vm8x.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-28vm8x.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-2kzwp9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-2kzwp9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-2y1op9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-2y1op9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-3zxq2d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-3zxq2d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-458x67.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-458x67.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-4lrd1l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-4lrd1l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-4v3ze3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-4v3ze3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-57j727.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-57j727.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-5g8po3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-5g8po3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-6og35l.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-6og35l.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-83qm82.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-83qm82.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-8ovy5j.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-8ovy5j.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-9d18lw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-9d18lw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-d5ggkl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-d5ggkl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-d5rlqg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-d5rlqg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-dpj7j3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-dpj7j3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-eod9zk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-eod9zk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-g76vge.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-g76vge.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-g77m8e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-g77m8e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-gjr6ke.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-gjr6ke.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-j8w6vp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-j8w6vp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-k7vg7d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-k7vg7d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-k8z5z7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-k8z5z7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-lm6jzr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-lm6jzr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-m959xm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-m959xm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-mddkx1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-mddkx1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-ml1p89.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-ml1p89.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-neg5mo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-neg5mo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-ododm7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-ododm7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-q2pee7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-q2pee7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-r2v78q.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-r2v78q.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-rqg9gq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-rqg9gq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-v9l81p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-v9l81p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-v9qyx3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-v9qyx3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-vm85dl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-vm85dl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-w56qwq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-w56qwq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-wqgxkx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-wqgxkx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-x1k2ko.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-x1k2ko.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-x8om6d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-x8om6d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-xee99d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-xee99d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-xl9v7l.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-xl9v7l.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-y83l9x.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-y83l9x.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-yq5d6d.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-yq5d6d.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-z8ey5o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-z8ey5o.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-zxo3wg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/robot/wallhaven-zxo3wg.jpg)
+```
+</details>
+
+### 👽 11. Sci-Fi
+<details>
+<summary><b>Click to expand Sci-Fi Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-017lq3.jpg" width="150"> | `wallhaven-017lq3.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0j62op.jpg" width="150"> | `wallhaven-0j62op.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-017lq3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-017lq3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0j62op.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0j62op.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0p7jge.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0p7jge.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0wgddx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0wgddx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1jp1xv.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1jp1xv.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1ky9z9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1ky9z9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1pxrxw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-1pxrxw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-42pze6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-42pze6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-42zo1m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-42zo1m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-49qkg8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-49qkg8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4omd5p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4omd5p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4owzkm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4owzkm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4yroex.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-4yroex.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-5w3e15.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-5w3e15.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-8odrkj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-8odrkj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-9m6lpk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-9m6lpk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-d58pgj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-d58pgj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-e83rvw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-e83rvw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-eo6yol.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-eo6yol.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-eyq9l8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-eyq9l8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-g79lv7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-g79lv7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-gjq3zd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-gjq3zd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-j37jpp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-j37jpp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-jew7yp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-jew7yp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k7zv37.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k7zv37.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k8zjkd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k8zjkd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k91l3d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-k91l3d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-kxk2k6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-kxk2k6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-lm35gp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-lm35gp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-md8prm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-md8prm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdogk8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdogk8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdoye8.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdoye8.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdyg58.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-mdyg58.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-n6em3q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-n6em3q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-n6p6pl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-n6p6pl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-ox72p9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-ox72p9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-pol5mj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-pol5mj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-pol5qp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-pol5qp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-qdqkxr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-qdqkxr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-r28vvj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-r28vvj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-rd58j1.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-rd58j1.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-rdr9xw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-rdr9xw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-vg2563.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-vg2563.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-vmggym.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-vmggym.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-wy3m9r.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-wy3m9r.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-ymdwpd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-ymdwpd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-yx879g.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-yx879g.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-z8me6o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-z8me6o.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zm8zxo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zm8zxo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zx6zyg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zx6zyg.jpg)
+```
+</details>
+
+### 🚀 12. Space
+<details>
+<summary><b>Click to expand Space Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-0q3okd.jpg" width="150"> | `wallhaven-0q3okd.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1kl8zv.png" width="150"> | `wallhaven-1kl8zv.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-0q3okd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-0q3okd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1kl8zv.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1kl8zv.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1p6gwg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1p6gwg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1pewpw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1pewpw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1q121g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1q121g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-43v8kd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-43v8kd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-43yxy9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-43yxy9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-48596y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-48596y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-492v2k.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-492v2k.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4ljkgr.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4ljkgr.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4lrkrp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4lrkrp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4yyk2d.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-4yyk2d.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-5y5dg7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-5y5dg7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-5yzjr9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-5yzjr9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-72mr7y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-72mr7y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-76wvyo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-76wvyo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-8x6opk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-8x6opk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-9mklzk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-9mklzk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-d832zl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-d832zl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-dpz21m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-dpz21m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-ey1x18.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-ey1x18.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-eyp3ro.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-eyp3ro.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-g851kd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-g851kd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-g8plx7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-g8plx7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-gw5xyq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-gw5xyq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-j31v2p.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-j31v2p.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-j3dp9q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-j3dp9q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jew7yp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jew7yp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jewmxy.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jewmxy.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jewr7w.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jewr7w.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jx6ryq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jx6ryq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jx7mem.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-jx7mem.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-k8zjkd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-k8zjkd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-k99621.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-k99621.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-lyz582.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-lyz582.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-lyzdl2.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-lyzdl2.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-m9m8my.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-m9m8my.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-neveg8.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-neveg8.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-oxexrl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-oxexrl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-pol5qp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-pol5qp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-rr63km.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-rr63km.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-vpz823.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-vpz823.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-vpzwop.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-vpzwop.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-wqxjvp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-wqxjvp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-xezmgz.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-xezmgz.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-xezomd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-xezomd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-yq5kvd.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-yq5kvd.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-yq5yxg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-yq5yxg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-zpzlwo.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-zpzlwo.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-zxvo6y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-zxvo6y.jpg)
+```
+</details>
+
+### 🌸 13. Vaporwave
+<details>
+<summary><b>Click to expand Vaporwave Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1kjwew.jpg" width="150"> | `wallhaven-1kjwew.jpg` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1pjpe9.jpg" width="150"> | `wallhaven-1pjpe9.jpg` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1kjwew.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1kjwew.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1pjpe9.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1pjpe9.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1q83qg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1q83qg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1qkgww.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1qkgww.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-39kp1v.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-39kp1v.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-5wdx99.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-5wdx99.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6k9xdw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6k9xdw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6ldyzl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6ldyzl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6q9jpw.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6q9jpw.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6qzjv7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-6qzjv7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-8g32lk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-8g32lk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-95961w.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-95961w.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-95w371.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-95w371.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-96rgyx.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-96rgyx.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-d5p3qg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-d5p3qg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-d6163o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-d6163o.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dgee5m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dgee5m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dgxp13.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dgxp13.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dp29ko.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dp29ko.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dpkpgj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dpkpgj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dpqklj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-dpqklj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-g85drl.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-g85drl.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-g86vve.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-g86vve.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-gjvwe7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-gjvwe7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-gjwmp3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-gjwmp3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-k73pg7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-k73pg7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw16d6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw16d6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw2xqd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw2xqd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw96x7.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw96x7.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kwqd27.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kwqd27.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kxgm5q.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kxgm5q.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-l3gqjp.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-l3gqjp.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-ly3gmr.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-ly3gmr.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-lyqk3p.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-lyqk3p.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdeo9y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdeo9y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdg7w9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdg7w9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8g17j.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8g17j.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8r983.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8r983.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q2dlll.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q2dlll.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q6qold.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q6qold.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-qrz9o7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-qrz9o7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-r22wdq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-r22wdq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-rd78wq.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-rd78wq.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vgmrq5.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vgmrq5.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vm3ymm.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vm3ymm.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vmkp1m.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vmkp1m.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-weq1ox.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-weq1ox.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-wyqg56.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-wyqg56.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-xl5k8v.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-xl5k8v.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-z8x55o.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-z8x55o.jpg)
+```
+</details>
+
+### 🪟 14. Windows 11
+<details>
+<summary><b>Click to expand Windows 11 Gallery</b></summary>
+
+| Preview | Filename | Preview | Filename |
+| :---: | :--- | :---: | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1kr3g3.png" width="150"> | `wallhaven-1kr3g3.png` | <img src="https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1q1g73.png" width="150"> | `wallhaven-1q1g73.png` |
+
+#### Copy Links:
+```text
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1kr3g3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1kr3g3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1q1g73.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1q1g73.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-21k2pg.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-21k2pg.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-2y3kkg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-2y3kkg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lp2k9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lp2k9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lpe76.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lpe76.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lxdy3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lxdy3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-72xx8y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-72xx8y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-7prgd9.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-7prgd9.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-85d9q2.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-85d9q2.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8ge9l2.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8ge9l2.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8go86j.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8go86j.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8gx8pk.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8gx8pk.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9dg8q8.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9dg8q8.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-9djgpk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-9djgpk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9odmxk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9odmxk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-d6rx7g.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-d6rx7g.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-dp6g8l.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-dp6g8l.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7ow5e.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7ow5e.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7qg7l.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7qg7l.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gw7jdq.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gw7jdq.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gwqpj3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gwqpj3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-j3yzdm.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-j3yzdm.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je1x8m.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je1x8m.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je3g95.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je3g95.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-jxv965.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-jxv965.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-k7g3j6.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-k7g3j6.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-kxm6m6.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-kxm6m6.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l3x572.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l3x572.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8qw7y.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8qw7y.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8v98r.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8v98r.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-lyw8ql.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-lyw8ql.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-mll6zk.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-mll6zk.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-o5dwzl.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-o5dwzl.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-og5xw7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-og5xw7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-oggg39.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-oggg39.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qrjmwd.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qrjmwd.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qz76y7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qz76y7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-rdvxxj.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-rdvxxj.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-rqrd3w.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-rqrd3w.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-vqkr25.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-vqkr25.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-w5qlrp.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-w5qlrp.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x6rkl3.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x6rkl3.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x8mge3.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x8mge3.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-y8ewml.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-y8ewml.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-yqexm7.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-yqexm7.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-z8g68w.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-z8g68w.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-z8v6rj.jpg](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-z8v6rj.jpg)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-zppjqg.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-zppjqg.png)
+[https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-zpzd1g.png](https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/windows_11/wallhaven-zpzd1g.png)
+```
+</details>
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository to explore the full-resolution assets offline:
+
+```bash
+git clone [https://github.com/Tcode-Motion/os-wallpapers.git](https://github.com/Tcode-Motion/os-wallpapers.git)
+```
+
+Maintained by **Tcode-Motion**
+```
