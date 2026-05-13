@@ -1,8 +1,39 @@
-# 🌌 Awesome OS Wallpapers
+<div align="center">
+
+# 🖼️ WallVault
+
+### The Desktop App for Browsing & Setting OS Wallpapers
+
+<img src="https://raw.githubusercontent.com/Tcode-Motion/os-wallpapers/main/WallVault.png" alt="WallVault App" width="800"/>
+
+<br/>
+
+[![Download WallVault](https://img.shields.io/badge/⬇️%20Download%20WallVault-Windows%20.exe-blue?style=for-the-badge)](https://github.com/Tcode-Motion/os-wallpapers/releases/latest)
+[![GitHub Stars](https://img.shields.io/github/stars/Tcode-Motion/os-wallpapers?style=for-the-badge)](https://github.com/Tcode-Motion/os-wallpapers/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+## 📥 Download WallVault App
+
+**WallVault** is a desktop application that lets you browse, preview, and set wallpapers from this collection — all in one click.
+
+| Platform | Download | Notes |
+|----------|----------|-------|
+| 🪟 Windows | [**Download .exe**](https://github.com/Tcode-Motion/os-wallpapers/releases/latest) | Windows 10 / 11 |
+
+> **How to install:** Download the `.exe` file → Run it → Browse & apply wallpapers instantly.
+
+---
+
+## 🌌 Awesome OS Wallpapers
 
 A high-quality, curated collection of over **600+ wallpapers** (~3GB) for your desktop. Organized by categories and optimized for performance with JSDelivr CDN.
 
 ## 🚀 Usage & Integration
+
 Use these links directly in your code. No need to download and host yourself!
 
 **HTML Example:**
@@ -15,45 +46,34 @@ Use these links directly in your code. No need to download and host yourself!
 body { background: url("LINK_HERE"); }
 ```
 
+---
+
 ## 📂 Categories & Quick Copy
-- [🎨 Abstract Gallery](#-1-abstract)
-  - [📋 Copy All Abstract Links](#copy-1-abstract)
-- [⛩️ Anime Gallery](#-2-anime)
-  - [📋 Copy All Anime Links](#copy-2-anime)
-- [🏎️ Cars Gallery](#-3-cars)
-  - [📋 Copy All Cars Links](#copy-3-cars)
-- [💻 Coding Gallery](#-4-coding)
-  - [📋 Copy All Coding Links](#copy-4-coding)
-- [🏙️ Cyberpunk Gallery](#-5-cyberpunk)
-  - [📋 Copy All Cyberpunk Links](#copy-5-cyberpunk)
-- [🔐 Hacking Gallery](#-6-hacking)
-  - [📋 Copy All Hacking Links](#copy-6-hacking)
-- [🐉 Kali Linux Gallery](#-7-kali-linux)
-  - [📋 Copy All Kali Linux Links](#copy-7-kali-linux)
-- [🍎 macOS Gallery](#-8-macos)
-  - [📋 Copy All macOS Links](#copy-8-macos)
-- [🦸 Marvel Gallery](#-9-marvel)
-  - [📋 Copy All Marvel Links](#copy-9-marvel)
-- [🤖 Robot Gallery](#-10-robot)
-  - [📋 Copy All Robot Links](#copy-10-robot)
-- [🚀 Sci-Fi Gallery](#-11-sci-fi)
-  - [📋 Copy All Sci-Fi Links](#copy-11-sci-fi)
-- [🌌 Space Gallery](#-12-space)
-  - [📋 Copy All Space Links](#copy-12-space)
-- [🌸 Vaporwave Gallery](#-13-vaporwave)
-  - [📋 Copy All Vaporwave Links](#copy-13-vaporwave)
-- [🪟 Windows 11 Gallery](#-14-windows-11)
-  - [📋 Copy All Windows 11 Links](#copy-14-windows-11)
+
+- [🎨 Abstract Gallery](#-abstract-links)
+- [⛩️ Anime Gallery](#️-anime-links)
+- [🏎️ Cars Gallery](#️-cars-links)
+- [💻 Coding Gallery](#-coding-links)
+- [🏙️ Cyberpunk Gallery](#️-cyberpunk-links)
+- [🔐 Hacking Gallery](#-hacking-links)
+- [🐉 Kali Linux Gallery](#-kali-linux-links)
+- [🍎 macOS Gallery](#-macos-links)
+- [🦸 Marvel Gallery](#-marvel-links)
+- [🤖 Robot Gallery](#-robot-links)
+- [🚀 Sci-Fi Gallery](#-sci-fi-links)
+- [🌌 Space Gallery](#-space-links)
+- [🌸 Vaporwave Gallery](#-vaporwave-links)
+- [🪟 Windows 11 Gallery](#-windows-11-links)
 
 ---
 
-
-
 ## 📋 Copyable Link Collections
+
 Use the copy button on each code block to get all links for a category at once.
 
-### <a name="copy-1-abstract"></a>🎨 Abstract Links
-```text
+### 🎨 Abstract Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135529.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-135xq3.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-21z6k9.png
@@ -106,8 +126,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallh
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-zmm6gw.jpg
 ```
 
-### <a name="copy-2-anime"></a>⛩️ Anime Links
-```text
+### ⛩️ Anime Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/171013-anime-world-light-people_in_nature-gesture-7680x4320.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/anime-girl-rock-by-river-autumn-sunset-scenery.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/japan-background-digital-art.jpg
@@ -164,8 +185,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-zpzv7j.jpg
 ```
 
-### <a name="copy-3-cars"></a>🏎️ Cars Links
-```text
+### 🏎️ Cars Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-0jdljq.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1j3mew.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-1qdj6g.jpg
@@ -212,14 +234,15 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez2q3.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez933.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq51qg.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg
+https://cdn.județ.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yqempl.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8pj.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8yv.jpg
 ```
 
-### <a name="copy-4-coding"></a>💻 Coding Links
-```text
+### 💻 Coding Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-0p52pj.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1kyel9.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-1p9133.png
@@ -272,8 +295,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylzmg.png
 ```
 
-### <a name="copy-5-cyberpunk"></a>🏙️ Cyberpunk Links
-```text
+### 🏙️ Cyberpunk Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-282xwg.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-2yggp6.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-39ry9y.png
@@ -326,8 +350,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wall
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zygg1y.jpg
 ```
 
-### <a name="copy-6-hacking"></a>🔐 Hacking Links
-```text
+### 🔐 Hacking Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-28l7zx.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2e3ezy.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-2eqmr6.jpg
@@ -364,8 +389,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallha
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-zxq6lw.jpg
 ```
 
-### <a name="copy-7-kali-linux"></a>🐉 Kali Linux Links
-```text
+### 🐉 Kali Linux Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2y556g.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-2ypwpm.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-39p123.jpg
@@ -399,8 +425,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wal
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-zy8ovv.png
 ```
 
-### <a name="copy-8-macos"></a>🍎 macOS Links
-```text
+### 🍎 macOS Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-0pwmm4.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-1kqvwg.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-2ko8j6.jpg
@@ -453,8 +480,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8xy2j.jpg
 ```
 
-### <a name="copy-9-marvel"></a>🦸 Marvel Links
-```text
+### 🦸 Marvel Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13m7xg.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-13q39g.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-21z7w6.jpg
@@ -507,8 +535,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zy2pwo.jpg
 ```
 
-### <a name="copy-10-robot"></a>🤖 Robot Links
-```text
+### 🤖 Robot Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wp2y7.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-0wze9q.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-13pwrg.png
@@ -561,8 +590,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-zxo3wg.jpg
 ```
 
-### <a name="copy-11-sci-fi"></a>🚀 Sci-Fi Links
-```text
+### 🚀 Sci-Fi Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-017lq3.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0j62op.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-0p7jge.jpg
@@ -615,8 +645,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zx6zyg.jpg
 ```
 
-### <a name="copy-12-space"></a>🌌 Space Links
-```text
+### 🌌 Space Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-0q3okd.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1kl8zv.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/wallhaven-1p6gwg.png
@@ -669,8 +700,9 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/zpzlwo.j
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/zxvo6y.jpg
 ```
 
-### <a name="copy-13-vaporwave"></a>🌸 Vaporwave Links
-```text
+### 🌸 Vaporwave Links
+
+```
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1kjwew.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1pjpe9.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-1q83qg.jpg
@@ -700,82 +732,64 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wall
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw16d6.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw2xqd.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw96x7.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kwqd27.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kxgm5q.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-l3gqjp.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-ly3gmr.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-lyqk3p.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdeo9y.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-mdg7w9.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8g17j.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-p8r983.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q2dlll.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-q6qold.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-qrz9o7.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-r22wdq.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-rd78wq.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vgmrq5.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vm3ymm.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-vmkp1m.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-weq1ox.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-wyqg56.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-xl5k8v.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-z8x55o.jpg
 ```
 
-### <a name="copy-14-windows-11"></a>🪟 Windows 11 Links
-```text
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1kr3g3.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-1q1g73.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-21k2pg.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-2y3kkg.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lp2k9.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lpe76.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-3lxdy3.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-72xx8y.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-7prgd9.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-85d9q2.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8ge9l2.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8go86j.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-8gx8pk.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9dg8q8.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9djgpk.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-9odmxk.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-d6rx7g.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-dp6g8l.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7ow5e.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-g7qg7l.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gw7jdq.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-gwqpj3.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-j3yzdm.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je1x8m.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-je3g95.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-jxv965.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-k7g3j6.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-kxm6m6.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l3x572.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8qw7y.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-l8v98r.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-lyw8ql.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-mll6zk.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-o5dwzl.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-og5xw7.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-oggg39.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qrjmwd.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-qz76y7.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-rdvxxj.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-rqrd3w.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-vqkr25.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-w5qlrp.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x6rkl3.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-x8mge3.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-y8ewml.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-yqexm7.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-z8g68w.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-z8v6rj.jpg
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-zppjqg.png
-https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows_11/wallhaven-zpzd1g.png
+### 🪟 Windows 11 Links
+
+```
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-0p5267.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-1kd3eg.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-1ky67l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-1pxd5w.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-1q3zvg.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-21z2k6.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-28v2v6.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-2e66rj.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-2ko2xg.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-2yge96.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-39xr5g.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-3le25g.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-42p2z6.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-49226l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-4d6mvq.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-4l6r9l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-4y6v9l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-5d6yv9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-5g28m5.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-5w6ze9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-6k26ml.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-6l6yv9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-72926l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-7j26v9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-7p26v9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-83261l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-8g26ml.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-9d26v9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-d826v9.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wallhaven-dp26ml.jpg
 ```
 
 ---
-Maintained by Tcode-Motion
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open a pull request to add more wallpapers or improve the collection.
+
+1. Fork the repository
+2. Add your wallpapers to the appropriate category folder under `/wallpapers/`
+3. Update the relevant link list in `README.md`
+4. Submit a pull request
+
+---
+
+## 📄 License
+
+This repository is provided for personal and educational use. All wallpapers are sourced from Wallhaven and remain under their respective licenses.
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Tcode-Motion](https://github.com/Tcode-Motion)
+
+</div>
