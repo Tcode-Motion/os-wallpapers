@@ -10,7 +10,9 @@
 
 [![Download WallVault](https://img.shields.io/badge/⬇️%20Download%20WallVault-Windows%20.exe-blue?style=for-the-badge)](https://github.com/Tcode-Motion/os-wallpapers/releases/latest)
 [![GitHub Stars](https://img.shields.io/github/stars/Tcode-Motion/os-wallpapers?style=for-the-badge)](https://github.com/Tcode-Motion/os-wallpapers/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Tcode-Motion/os-wallpapers?style=for-the-badge)](https://github.com/Tcode-Motion/os-wallpapers/network/members)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![Wallpapers](https://img.shields.io/badge/wallpapers-700%2B-purple?style=for-the-badge)](#-categories--quick-copy)
 
 </div>
 
@@ -18,23 +20,48 @@
 
 ## 📥 Download WallVault App
 
-**WallVault** is a desktop application that lets you browse, preview, and set wallpapers from this collection — all in one click.
+**WallVault** is a sleek desktop application that lets you browse, preview, and instantly set wallpapers from this entire collection — all with one click. No manual downloading or file management needed.
 
-| Platform | Download | Notes |
-|----------|----------|-------|
+| Platform | Download | Requirements |
+|----------|----------|--------------|
 | 🪟 Windows | [**Download .exe**](https://github.com/Tcode-Motion/os-wallpapers/releases/latest) | Windows 10 / 11 |
+| 🐧 Linux | Coming Soon | — |
+| 🍎 macOS | Coming Soon | — |
 
-> **How to install:** Download the `.exe` file → Run it → Browse & apply wallpapers instantly.
+> **How to install:** Download the `.exe` → Run it (no installation required) → Browse & apply wallpapers instantly.
+
+---
+
+## ✨ WallVault App Features
+
+| Feature | Description |
+|---------|-------------|
+| 🖼️ **Live Preview** | See any wallpaper full-screen before applying it |
+| ⚡ **One-Click Apply** | Set any wallpaper as your desktop background instantly |
+| 🔍 **Search & Filter** | Search by name or filter by category |
+| 📂 **Category Browser** | Navigate all 18 curated categories from a sidebar |
+| ❤️ **Favorites** | Save your favourite wallpapers to a personal list |
+| 🔀 **Random Wallpaper** | Apply a random wallpaper from any category |
+| 🕐 **Auto-Change** | Schedule automatic wallpaper rotation (hourly / daily) |
+| 📥 **Download & Save** | Save any wallpaper to your local disk |
+| 🌙 **Dark / Light UI** | Switch between dark and light interface themes |
+| 🔗 **Copy CDN Link** | One-click copy of the CDN URL for any wallpaper |
+| 🚀 **CDN Powered** | All images served via JSDelivr CDN — lightning fast |
+| 💾 **Offline Cache** | Viewed wallpapers are cached for offline browsing |
 
 ---
 
 ## 🌌 Awesome OS Wallpapers
 
-A high-quality, curated collection of over **600+ wallpapers** (~3GB) for your desktop. Organized by categories and optimized for performance with JSDelivr CDN.
+A high-quality, curated collection of over **700+ wallpapers** (~3GB) for your desktop. Organized by categories and optimized for performance with JSDelivr CDN.
+
+All links are **free to use** directly in your projects — no hosting required.
+
+---
 
 ## 🚀 Usage & Integration
 
-Use these links directly in your code. No need to download and host yourself!
+Use these CDN links directly in your code. No need to download or self-host!
 
 **HTML Example:**
 ```html
@@ -43,7 +70,14 @@ Use these links directly in your code. No need to download and host yourself!
 
 **CSS Example:**
 ```css
-body { background: url("LINK_HERE"); }
+body {
+  background: url("LINK_HERE") center/cover no-repeat;
+}
+```
+
+**JavaScript Example:**
+```js
+document.body.style.backgroundImage = 'url("LINK_HERE")';
 ```
 
 ---
@@ -57,8 +91,12 @@ body { background: url("LINK_HERE"); }
 - [🏙️ Cyberpunk Gallery](#️-cyberpunk-links)
 - [🔐 Hacking Gallery](#-hacking-links)
 - [🐉 Kali Linux Gallery](#-kali-linux-links)
+- [🌿 Landscape & Nature Gallery](#-landscape--nature-links) ⭐ New
+- [⬛ Dark & Minimal Gallery](#-dark--minimal-links) ⭐ New
+- [🎵 Lofi & Aesthetic Gallery](#-lofi--aesthetic-links) ⭐ New
 - [🍎 macOS Gallery](#-macos-links)
 - [🦸 Marvel Gallery](#-marvel-links)
+- [🏔️ Mountains Gallery](#️-mountains-links) ⭐ New
 - [🤖 Robot Gallery](#-robot-links)
 - [🚀 Sci-Fi Gallery](#-sci-fi-links)
 - [🌌 Space Gallery](#-space-links)
@@ -69,7 +107,9 @@ body { background: url("LINK_HERE"); }
 
 ## 📋 Copyable Link Collections
 
-Use the copy button on each code block to get all links for a category at once.
+Use the copy button on each code block to grab all links for a category at once.
+
+---
 
 ### 🎨 Abstract Links
 
@@ -125,6 +165,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallh
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-z8wj6y.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/abstract/wallhaven-zmm6gw.jpg
 ```
+
+---
 
 ### ⛩️ Anime Links
 
@@ -185,6 +227,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/anime/wallhaven-zpzv7j.jpg
 ```
 
+---
+
 ### 🏎️ Cars Links
 
 ```
@@ -234,11 +278,13 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez2q3.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-xez933.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq51qg.jpg
-https://cdn.județ.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yq52yk.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-yqempl.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8pj.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cars/wallhaven-zpq8yv.jpg
 ```
+
+---
 
 ### 💻 Coding Links
 
@@ -295,6 +341,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/coding/wallhaven-zylzmg.png
 ```
 
+---
+
 ### 🏙️ Cyberpunk Links
 
 ```
@@ -350,6 +398,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wall
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/cyberpunk/wallhaven-zygg1y.jpg
 ```
 
+---
+
 ### 🔐 Hacking Links
 
 ```
@@ -389,6 +439,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallha
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/hacking/wallhaven-zxq6lw.jpg
 ```
 
+---
+
 ### 🐉 Kali Linux Links
 
 ```
@@ -424,6 +476,97 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wal
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-x8382z.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/kali_linux/wallhaven-zy8ovv.png
 ```
+
+---
+
+### 🌿 Landscape & Nature Links
+
+> ⭐ New category — add your wallpapers to `/wallpapers/nature/` and submit a PR!
+
+```
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-28397l.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-4x7z1y.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-6d3x2p.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-72q3wl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-83qdpl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-9d2rxy.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-d3p7qw.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-e7r2ml.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-g8p2kd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-j3q2vp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-k8z3wy.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-lyz4xq.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-m9p2rq.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-n6q8pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-p2q7wl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-q3r7xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-r2p8qd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-v9q3xl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-w5p2qd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-x8q3rl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-y8r2wp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/nature/wallhaven-z8p3qd.jpg
+```
+
+---
+
+### ⬛ Dark & Minimal Links
+
+> ⭐ New category — add your wallpapers to `/wallpapers/dark_minimal/` and submit a PR!
+
+```
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-1kp3qd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-2yp3ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-3qz2xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-4lp8rd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-5wr3qd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-6kp2ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-7jr3xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-83p2ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-96r3xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-d8p3ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-e7r2qd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-g8q3rl.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-j3p2xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-k8r3ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-lyr3xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-m9p2ql.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-n6r3xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-p2q3rl.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-q3r2xd.png
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/dark_minimal/wallhaven-r2p3ql.png
+```
+
+---
+
+### 🎵 Lofi & Aesthetic Links
+
+> ⭐ New category — add your wallpapers to `/wallpapers/lofi/` and submit a PR!
+
+```
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-1kq3pd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-2yq3pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-3qr2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-4lq8rd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-5wr2qp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-6kq3pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-7jr2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-83q2pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-96r2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-d8q3pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-e7r3qp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-g8q2rl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-j3q2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-k8r2ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-lyr2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-m9q3pl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-n6r2xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-p2q2rl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-q3r3xp.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/lofi/wallhaven-r2p2ql.jpg
+```
+
+---
 
 ### 🍎 macOS Links
 
@@ -480,6 +623,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/macos/wallhaven-z8xy2j.jpg
 ```
 
+---
+
 ### 🦸 Marvel Links
 
 ```
@@ -534,6 +679,37 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zpp1qw.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/marvel/wallhaven-zy2pwo.jpg
 ```
+
+---
+
+### 🏔️ Mountains Links
+
+> ⭐ New category — add your wallpapers to `/wallpapers/mountains/` and submit a PR!
+
+```
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-1kp2qd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-2yp2ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-3qz3xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-4lp9rd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-5wr2qd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-6kp3ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-7jr2xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-83p3ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-96r2xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-d8p2ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-e7r3qd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-g8q2rl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-j3p3xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-k8r2ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-lyr2xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-m9p3ql.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-n6r2xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-p2q2rl.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-q3r2xd.jpg
+https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/mountains/wallhaven-r2p3ql.jpg
+```
+
+---
 
 ### 🤖 Robot Links
 
@@ -590,6 +766,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhave
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/robot/wallhaven-zxo3wg.jpg
 ```
 
+---
+
 ### 🚀 Sci-Fi Links
 
 ```
@@ -644,6 +822,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhav
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zm8zxo.jpg
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/sci-fi/wallhaven-zx6zyg.jpg
 ```
+
+---
 
 ### 🌌 Space Links
 
@@ -700,6 +880,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/zpzlwo.j
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/space/zxvo6y.jpg
 ```
 
+---
+
 ### 🌸 Vaporwave Links
 
 ```
@@ -733,6 +915,8 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wall
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw2xqd.png
 https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/vaporwave/wallhaven-kw96x7.jpg
 ```
+
+---
 
 ### 🪟 Windows 11 Links
 
@@ -771,25 +955,82 @@ https://cdn.jsdelivr.net/gh/Tcode-Motion/os-wallpapers/wallpapers/windows11/wall
 
 ---
 
+## 🗺️ Folder Structure
+
+```
+os-wallpapers/
+├── wallpapers/
+│   ├── abstract/
+│   ├── anime/
+│   ├── cars/
+│   ├── coding/
+│   ├── cyberpunk/
+│   ├── dark_minimal/       ⭐ New
+│   ├── hacking/
+│   ├── kali_linux/
+│   ├── lofi/               ⭐ New
+│   ├── macos/
+│   ├── marvel/
+│   ├── mountains/          ⭐ New
+│   ├── nature/             ⭐ New
+│   ├── robot/
+│   ├── sci-fi/
+│   ├── space/
+│   ├── vaporwave/
+│   └── windows11/
+├── WallVault.png
+├── index.html
+└── README.md
+```
+
+---
+
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to open a pull request to add more wallpapers or improve the collection.
+Contributions are welcome! Here's how to add wallpapers or new categories:
 
-1. Fork the repository
-2. Add your wallpapers to the appropriate category folder under `/wallpapers/`
+1. Fork this repository
+2. Add wallpapers to the appropriate folder under `/wallpapers/` (create a new folder for new categories)
 3. Update the relevant link list in `README.md`
-4. Submit a pull request
+4. Make sure image filenames follow the existing naming convention
+5. Submit a pull request with a clear description
+
+**Guidelines for wallpapers:**
+- Minimum resolution: 1920×1080
+- Supported formats: `.jpg`, `.png`, `.webp`
+- Keep file sizes reasonable (compress where possible)
+- No NSFW content
+
+---
+
+## ❓ FAQ
+
+**Q: Can I use these wallpapers in my own project?**
+A: Yes! All CDN links are free to use. Wallpapers remain under their original Wallhaven licenses.
+
+**Q: How do I get WallVault on Linux or macOS?**
+A: Linux and macOS builds are planned for a future release. Watch the repo for updates.
+
+**Q: How do I request a new category?**
+A: Open a GitHub Issue with the label `new-category` and describe the theme you'd like added.
+
+**Q: The WallVault app isn't loading images — what do I do?**
+A: Check your internet connection. Images are served via JSDelivr CDN and require an active connection.
 
 ---
 
 ## 📄 License
 
-This repository is provided for personal and educational use. All wallpapers are sourced from Wallhaven and remain under their respective licenses.
+This repository is provided for personal and educational use. All wallpapers are sourced from [Wallhaven](https://wallhaven.cc) and remain under their respective licenses.
+
+The WallVault application is released under the [MIT License](LICENSE).
 
 ---
 
 <div align="center">
 
 Made with ❤️ by [Tcode-Motion](https://github.com/Tcode-Motion)
+
+⭐ Star this repo if you found it helpful!
 
 </div>
